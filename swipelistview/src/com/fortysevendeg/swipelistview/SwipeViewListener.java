@@ -21,7 +21,7 @@ package com.fortysevendeg.swipelistview;
 /**
  * Listener to get callback notifications for the SwipeListView
  */
-public interface SwipeListViewListener {
+public interface SwipeViewListener {
 
     /**
      * Called when open animation finishes

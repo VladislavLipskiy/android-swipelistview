@@ -1,6 +1,6 @@
 package com.fortysevendeg.swipelistview;
 
-public class BaseSwipeListViewListener implements SwipeListViewListener {
+public class BaseSwipeViewListener implements SwipeViewListener {
     @Override
     public void onOpened(int position, boolean toRight) {
     }
